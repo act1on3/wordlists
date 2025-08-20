@@ -4,7 +4,7 @@ v3/api-docs
 v2/api-docs
 api-docs
 v3/api-docs/swagger-config
-v2/api-docs/swagger-config\
+v2/api-docs/swagger-config
 api-docs/swagger-config
 v3/api-docs/v1
 docs.yaml
